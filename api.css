@@ -1,0 +1,35 @@
+* {
+  background-image: url(http://www.petsworld.in/blog/wp-content/uploads/2015/06/2.jpg);
+  font-family: cursive;
+  text-align: center;
+}
+h1 {
+  font-size: 52px;
+  color: pink;
+  text-shadow: 5px 5px black;
+}
+
+.picker {
+  margin-top: 175px;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: fantasy;
+  background: pink;
+  color: white;
+
+}
+
+.newBreed {
+  margin-top: 100px;
+  background-color: blue;
+  width: 200px;
+  height: 100px;
+  font-size: 25px;
+  border-radius: 25px;
+background: black;
+color: white;
+
+}
+.newBreed:hover {
+  background-color: purple;
+}
